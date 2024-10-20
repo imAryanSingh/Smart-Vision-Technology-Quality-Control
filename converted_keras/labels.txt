@@ -1,0 +1,39 @@
+0 Garlic
+1 Grapes
+2 Jalepeno
+3 Onion
+4 Pear
+5 Pomegranate
+6 Turnip
+7 Watermelon
+8 Beetroot
+9 Cabbage
+10 Corn
+11 Ginger
+12 Kiwi
+13 Lemon
+14 Peas
+15 Pineapple
+16 Cauliflower
+17 Chili Pepper
+18 Eggplant
+19 Rotten Potato
+20 Rotten Carrot
+21 Fresh Bellpaper
+22 Fresh Potato
+23 Fresh Cucumber
+24 Fresh Tomato
+25 Rotten Cucumber
+26 Rotten Tomato
+27 Rotten Bellpaper
+28 Fresh Carrot
+29 Rotten Orange
+30 Fresh Apple
+31 Rotten Apple
+32 Rotten Strawberry
+33 Rotten Mango
+34 Fresh Strawberry
+35 Fresh Mango
+36 Fresh Orange
+37 Fresh Banana
+38 Rotten Banana
