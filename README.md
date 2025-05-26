@@ -95,7 +95,6 @@ For any inquiries or permissions, please contact:
 
 ## Team Members
 
-- **[Pranjal Galundia](https://www.linkedin.com/in/pranjal-galundia-806823319/)** (SVKM's NMIMS Mukesh Patel School of Technology Management & Engineering, Shirpur Campus)
 - **[Aryan Singh](https://www.linkedin.com/in/im-aryan-singh/)** (Institute of Engineering and Technology, Udaipur)
 
 We are students from [Vidhya Institute Of Information Technology, Udaipur](+91-9214465362).
