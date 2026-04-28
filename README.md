@@ -6,15 +6,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-API-6706CE?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Flipkart_GRID_6.0-Top_0.3%25-1D9E75?style=for-the-badge)
- <div align="center">
+
 **An end-to-end automated quality control pipeline for e-commerce — product recognition, freshness detection, OCR extraction, and fruit/vegetable counting from a single image upload.**
- 
+
 *Ranked Top 0.3% (300 of 1,00,000+ participants) in Flipkart GRID 6.0 · Reduced manual inspection effort by 40%*
  
-[Overview](#overview) · [Features](#features) · [Pipeline](#pipeline) · [Results](#results) · [Setup](#setup) · [File Structure](#file-structure)
- 
-</div>
----
+[Overview](#overview) · [demo](#demo) · [Pipeline](#pipeline) · [Results](#results) · [Setup](#setup) · [File Structure](#file-structure)
  
 ## Overview
  
@@ -33,11 +30,15 @@ Built for **Flipkart GRID 6.0** (Software Development + Robotics tracks), this p
 ---
  
 ## Demo
- 
-> **Add a screen recording of your Streamlit app here.**
-> Run `streamlit run Main2nd.py`, record a demo, and drag the GIF into this README.
- 
-![Product Recognition Demo](images/demo_placeholder.png)
+
+The following video demonstrates the end-to-end capabilities of the system, including real-time freshness detection and OCR extraction:
+
+**🔗 Video Link:** [Flipkart GRID 6.0 - Smart Vision Technology Demo](https://www.linkedin.com/posts/im-aryan-singh_shapingindiantechscape-flipkartgrid-jointhegrid-ugcPost-7262143225430253569-_Ecb)
+
+**What's shown in the video:**
+* **Real-time Inference:** Fast processing of uploaded warehouse images.
+* **Accuracy:** High-confidence freshness scoring for perishables.
+* **Workflow:** Seamless integration between the Streamlit UI and the backend ML models.
  
 **App sections:**
 | Page | What it does |
