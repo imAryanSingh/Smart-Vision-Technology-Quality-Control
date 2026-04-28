@@ -260,7 +260,7 @@ conn = sqlite3.connect('products.db', timeout=10)
 [![GitHub](https://img.shields.io/badge/GitHub-imAryanSingh-181717?style=flat&logo=github)](https://github.com/imAryanSingh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-imAryanSingh.github.io-534AB7?style=flat)](https://imAryanSingh.github.io)
  
-*B.Tech CSE · Mohanlal Sukhadia University · GATE 2026 (88.31 percentile)*
+*B.Tech CSE · Mohanlal Sukhadia University *
  
 ---
  
